@@ -1,6 +1,5 @@
 # 🫀 **Multi-Cure: The Multiple Disease Predictor** 💉  
-[🌐 **Try it out here!**](https://multi-cure.streamlit.app/)  
-
+[🌐 **Try it out here!**]
 ### **Overview**  
 **Multi-Cure** is an advanced supervised Machine Learning model designed to predict multiple diseases, including:  
 - **Diabetes**  
