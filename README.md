@@ -1,5 +1,5 @@
-# 🫀 **Multi-Cure: The Multiple Disease Predictor** 💉  
-[🌐 **Try it out here!**]
+# **Medialyze : The Multiple Disease Predictor** 
+[🌐 **Try it out here!**] **Coming Soon**
 ### **Overview**  
 **Multi-Cure** is an advanced supervised Machine Learning model designed to predict multiple diseases, including:  
 - **Diabetes**  
@@ -7,15 +7,15 @@
 - **Parkinson's Disease**  
 - **Breast Cancer**  
 
-This powerful tool combines Python and Machine Learning to provide accurate predictions. The user-friendly web app is built and deployed using **Streamlit**, making it accessible and interactive.  
+This powerful tool combines Python and Machine Learning to provide accurate predictions. The  web app is built and deployed using **Streamlit**, making it interactive.  
 
 ---
 
 ## 💡 **Key Features**  
-- Easy-to-use web interface.  
+-  web interface.  
 - Predicts multiple diseases with a single app.  
-- Powered by robust supervised learning models.  
-- Deployed for seamless access via Streamlit.  
+- Tested by multiple supervised learning models.  
+- Deployed for ease access via Streamlit.  
 
 ---
 
@@ -73,4 +73,4 @@ Follow these simple steps to set up the project locally:
 
 ---
 
-Feel free to suggest improvements or contribute to the project! 😊  
+Feel free to contact me for improvements or contribute to the project! 😊  
