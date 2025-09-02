@@ -1,7 +1,7 @@
 # **Medialyze : The Multiple Disease Predictor** 
 [🌐 **Try it out here!**] **Coming Soon**
 ### **Overview**  
-**Multi-Cure** is an advanced supervised Machine Learning model designed to predict multiple diseases, including:  
+**Medialyze** is an advanced supervised Machine Learning model designed to predict multiple diseases, including:  
 - **Diabetes**  
 - **Heart Disease**  
 - **Parkinson's Disease**  
