@@ -1,28 +1,28 @@
-Medalyze: The Multiple Disease Predictor 💉
+**Medalyze: The Multiple Disease Predictor 💉**
 
 Overview about Project:
 
 Medalyze is an advanced supervised Machine Learning application designed to predict multiple diseases with high accuracy. Currently, it can assess the likelihood of:
 
-Diabetes
+**Diabetes**
 
-Heart Disease
+**Heart Disease**
 
-Parkinson's Disease
+**Parkinson's Disease**
 
-Breast Cancer
+**Breast Cancer**
 
 This intelligent tool combines Python and Machine Learning to deliver reliable predictions in seconds. With a sleek, interactive Streamlit interface, Medalyze makes health insights accessible to anyone, anywhere.
 
 💡 Key Features
 
-Clean, intuitive web interface.
+**Clean  web interface.**
 
-Predicts multiple diseases in one unified app.
+**Predicts multiple diseases in one unified app.**
 
-Powered by robust supervised learning algorithms.
+**tested by multiple supervised learning algorithms.**
 
-Fully deployed using Streamlit for instant access.
+ **deployed using Streamlit for access.**
 
 🔧 Installation Guide
 
@@ -76,4 +76,4 @@ More input features for improved accuracy.
 
 Enhanced UI/UX for a smoother experience.
 
-💬 Contributions and suggestions are always welcome! 😊
+**💬 Contributions and suggestions are always welcome! 😊**
