@@ -4,8 +4,7 @@
 **Medialyze** is an advanced supervised Machine Learning model designed to predict multiple diseases, including:  
 - **Diabetes**  
 - **Heart Disease**  
-- **Parkinson's Disease**  
-- **Breast Cancer**  
+- **Parkinson's Disease** 
 
 This powerful tool combines Python and Machine Learning to provide accurate predictions. The  web app is built and deployed using **Streamlit**, making it interactive.  
 
